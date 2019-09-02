@@ -349,6 +349,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     NotchBarKiller \
     VShapedNotch
+    
+# Device-specific settings
+PRODUCT_PACKAGES += \
+    XiaomiParts   
 
 # Perf
 PRODUCT_PACKAGES += \
