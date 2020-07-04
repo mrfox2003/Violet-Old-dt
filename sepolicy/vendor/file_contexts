@@ -53,3 +53,5 @@
 # Thermal
 /vendor/bin/mi_thermald         u:object_r:mi_thermald_exec:s0
 
+# Force Fast Charge
+/sys/kernel/fast_charge/force_fast_charge       u:object_r:sysfs_fastcharge:s0
