@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/voltage_violet.mk
+    $(LOCAL_DIR)/spark_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    voltage_violet-userdebug \
-    voltage_violet-user \
-    voltage_violet-eng
+    spark_violet-userdebug \
+    spark_violet-user \
+    spark_violet-eng
