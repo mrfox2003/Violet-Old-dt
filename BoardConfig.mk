@@ -224,3 +224,6 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 
 # Inherit from the proprietary version
 include vendor/xiaomi/violet/BoardConfigVendor.mk
+
+# Platform
+TARGET_BOARD_PLATFORM_GPU := qcom-adreno612
