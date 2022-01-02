@@ -227,3 +227,6 @@ include vendor/xiaomi/violet/BoardConfigVendor.mk
 
 # System props
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
+
+# Platform
+TARGET_BOARD_PLATFORM_GPU := qcom-adreno612
